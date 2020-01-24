@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="OSBot Visual Scripter">
+    <output-path>$USER_HOME$/OSBot/Scripts</output-path>
+    <root id="archive" name="OSBot Visual Scripter.jar">
+      <element id="module-output" name="OSBot Visual Scripter" />
+    </root>
+  </artifact>
+</component>
